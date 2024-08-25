@@ -114,13 +114,13 @@ const Home: React.FC<BlogPostProps> = () => {
             </MotionBox>
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" textAlign="left">
-            I am 
+            I am
             <Box as="strong" fontWeight="600">
-            &nbsp; M Mustafa Ali,
+              &nbsp; Umair Abid,
             </Box>{' '}
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
-          A Full Stack Engineer with a passion for developing efficient, user-centric web solutions. Throughout my career, I’ve consistently demonstrated a strong ability to take initiative and lead diverse teams towards successful project outcomes.
+            A Full Stack Engineer with a passion for developing efficient, user-centric web solutions. Throughout my career, I’ve consistently demonstrated a strong ability to take initiative and lead diverse teams towards successful project outcomes.
             I excel in collaborative environments but also enjoy independently diving deep into complex problems. My approach combines analytical thinking with creativity, allowing me to tackle issues from multiple angles.
           </Box>
         </MotionFlex>
