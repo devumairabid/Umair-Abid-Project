@@ -1,6 +1,6 @@
 import {
   FaGithub,
-  FaLinkedin,
+  // FaLinkedin,
   // FaDev,
   // FaQuora,
   // FaTwitter
@@ -8,12 +8,12 @@ import {
 import { FiMail } from "react-icons/fi";
 
 const siteConfig = {
-  copyright: `Copyright © ${new Date().getFullYear()} Muhammad Mustafa Ali. All Rights Reserved.`,
+  copyright: `Copyright © ${new Date().getFullYear()} Umair Abid. All Rights Reserved.`,
   author: {
-    name: "Muhammad Mustafa Ali",
+    name: "Umair Abid",
     accounts: [
       {
-        url: "https://github.com/mustafa-ali-qbatch",
+        url: "https://github.com/devumairabid",
         label: "Github Account",
         type: "gray",
         icon: <FaGithub />
@@ -30,12 +30,12 @@ const siteConfig = {
       //   type: "gray",
       //   icon: <FaDev />
       // },
-      {
-        url: "https://www.linkedin.com/in/mustafa-ali-34b257214/",
-        label: "LinkedIn Account",
-        type: "linkedin",
-        icon: <FaLinkedin />
-      },
+      // {
+      //   url: "https://www.linkedin.com/in/mustafa-ali-34b257214/",
+      //   label: "LinkedIn Account",
+      //   type: "linkedin",
+      //   icon: <FaLinkedin />
+      // },
       // {
       //   url: "https://www.quora.com/profile/Muhammad-Ahmad-66",
       //   label: "Quora Account",
@@ -43,7 +43,7 @@ const siteConfig = {
       //   icon: <FaQuora />
       // },
       {
-        url: "mailto:mustafaamjad271@gmail.com",
+        url: "mailto:devumairabid01@gmail.com",
         label: "Mail mustafa",
         type: "gray",
         icon: <FiMail />
